@@ -18,7 +18,7 @@
 - Após reiniciar o aparelho, basta conectar um cabo USB no aparelho e em seu computador e em seguida, digitar ou colar o seguinte código no terminal:
 
 
-    sudo adb devices
+        sudo adb devices
     
 - Seu aparelho deverá aparecer na lista. Enquanto na tela do mesmo deverá aparecer uma solicitação para autorizar a depuração USB, selecione o campo de opção e aperte OK.
 
