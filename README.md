@@ -1,5 +1,5 @@
-# FRP-ADB-ANDROID-DOC
-Factory Reset Protetion
+# Factory Reset Protetion
+
 
 # Recuperação FRP conta Google
 
