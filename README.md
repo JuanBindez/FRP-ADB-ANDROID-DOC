@@ -28,5 +28,3 @@
     
 - Este código liberará seu dispositivo da validação de conta requisitada.
 - Obs.: Caso não consiga a autorização, reinicie o serviço de depuração com o código: adb kill-server.
-
-https://www.madrutech.com.br/2017/06/desbloquear-conta-google-no-moto-pelo-linux.html
